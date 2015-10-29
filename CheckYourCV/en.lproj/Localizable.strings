@@ -1,0 +1,172 @@
+//
+//  Created by Grigory Lutkov on 01.10.12.
+//  Copyright (c) 2012 Grigory Lutkov. All rights reserved.
+//
+
+"myName" = "Grigory Lutkov";
+
+//////////////////////////////////////// Menu buttons
+
+// Unselected
+
+"playButtonUnsel" = "PLAY";
+"optionsButtonUnsel" = "OPTIONS";
+"highscoresButtonUnsel" = "HIGHSCORES";
+"gamecenterButtonUnsel" = "GAME_CENTER";
+"aboutButtonUnsel" = "ABOUT";
+"purchasesButtonUnsel" = "PURCHASES";
+"newsButtonUnsel" = "NEWS";
+"moreGamesButtonUnsel" = "MORE_GAMES";
+
+// Selected
+
+"playButtonSel" = "[PLAY]";
+"optionsButtonSel" = "[OPTIONS]";
+"highscoresButtonSel" = "[HIGHSCORES]";
+"gamecenterButtonSel" = "[GAME_CENTER]";
+"aboutButtonSel" = "[ABOUT]";
+"purchasesButtonSel" = "[PURCHASES]";
+"newsButtonSel" = "[NEWS]";
+"moreGamesButtonSel" = "[MORE_GAMES]";
+
+//////////////////////////////////////// Help
+
+"aboutTitle" = "ABOUT";
+"aboutText" = "        Do you differentiate colors well? This game/test helps you to know for sure.\n        The rules are easy: Color spectrum is divided into squares, which are mixed between each other. You should move the squares and put the spectrum into its initial state. Border squares are already in their right positions and you cannot move them. Moreover, you can move the squares only on lines where they are situated. Upon completing you can see your mistakes and your highscore, based on mistakes number, movements number and time.\n        In Game Center you can compare your highscore with highscores of people all over the world. Good luck :)";
+
+//////////////////////////////////////// Options
+
+"optionsTitle" = "OPTIONS";
+"selectLanguage" = "Language:";
+"selectSound" = "Sound:";
+"soundOn" = "On";
+"soundOff" = "Off";
+"followUs" = "Follow us:";
+
+//////////////////////////////////////// News
+
+"newsTitle" = "NEWS";
+"newsText" = "Now you can post your score on Facebook and Twitter. Buttons for it located on highscores and result screen after game.\nMoreover you can follow us, check settings for this.\nHave a good game :)";
+
+//////////////////////////////////////// Purchases
+
+"purchasesTitle" = "PURCHASES";
+"removeAdsText" = "| Remove Ads for $0.99 |";
+"removeAdsYes" = "(already purchased)";
+"restoreText" = "| Restore the purchase |";
+"removeAdsNo" = "(tap on text to purchase)";
+"donateTitle" = "DONATE";
+"internetAvailabilityTitle" = "Internet connection status:";
+
+//////////////////////////////////////// More Games
+
+"moreGamesTitle" = "MORE GAMES";
+"priceFree" = "| Free";
+"download" = "| Download";
+"goToAppStore" = "| Go to developer page on AppStore |";
+
+//////////////////////////////////////// Highscores
+
+"highscoresTitle" = "HIGHSCORES";
+"mistakes" = "MISTAKES";
+"time" = "TIME";
+"squaresMoved" = "SQUARES MOVED";
+"score" = "SCORE";
+"submitScore" = "| Synchronize the best score with GameCenter |";
+
+//////////////////////////////////////// GameCenter
+
+"leaderboards" = "Leaderboards";
+"achievements" = "Achievements";
+
+//////////////////////////////////////// Alert Messages
+
+"noInternetConnectionTitle" = "Offline";
+"noInternetConnectionMessage" = "Internet connection is not available.";
+"close" = "Close";
+"cancel" = "Cancel";
+"developer" = "Developer";
+"engine" = "Engine";
+"sounds" = "Sounds";
+"error" = "Error";
+"GCErrorTitle" = "Game Center Unavailable";
+"GCErrorMessage" = "Player is not signed in";
+
+"RateTitle" = "Rate the game?";
+"RateMessage" = "Every mark will attract more challengers. Thanks for your support!";
+"RateOk" = "Rate it!";
+"RateLater" = "Later";
+"RateNo" = "No, thanks";
+
+"RatedTitle" = "Thanks!";
+"RatedMessage" = "We'll not forget this :)";
+
+//////////////////////////////////////// LGGameCenter
+
+"MCGC_successTitle" = "Done";
+"MCGC_highscoreText" = "Highscore";
+"MCGC_successMessage" = "synchronization success.";
+"MCGC_errorTitle" = "Error";
+"MCGC_errorMessage" = "Highscore sending failed.";
+
+//////////////////////////////////////// LGInAppPurchases
+
+"MCIAP_connectionError" = "Connection Error";
+"MCIAP_tryAgainMessage" = "Please try again later.";
+"MCIAP_purchasingDisabled" = "In-App Purchasing disabled";
+"MCIAP_parentalControl" = "Check your parental control settings and try again.";
+"MCIAP_progressAlertTitle" = "Waiting for server response";
+"MCIAP_progressAlertMessage" = "Please wait...";
+"MCIAP_purchaseSuccessfulTitle" = "Thank You!";
+"MCIAP_purchaseRemoveAdsMessage" = "Ads removal success. Restart game to apply changes.";
+"MCIAP_purchaseDonate1Message" = "You successfully donated $1. We appreciate your donation.";
+"MCIAP_purchaseDonate3Message" = "You successfully donated $3. We appreciate your donation.";
+"MCIAP_purchaseDonate5Message" = "You successfully donated $5. We appreciate your donation.";
+"MCIAP_purchaseDonate10Message" = "You successfully donated $10. We appreciate your donation.";
+"MCIAP_purchaseDonate25Message" = "You successfully donated $25. We appreciate your donation.";
+"MCIAP_purchasingError" = "Purchasing Error";
+
+//////////////////////////////////////// Internet status
+
+"NotReachable" = "Access not available";
+"ReachableViaWWAN" = "Connected to WWAN";
+"ReachableViaWiFi" = "Connected to WiFi";
+
+//////////////////////////////////////// Test
+
+"back" = "BACK";
+"next" = "NEXT";
+"menu" = "MENU";
+"finish" = "FINISH";
+"sure?" = "SURE?";
+"yesUnsel" = "YES";
+"noUnsel" = "NO";
+"yesSel" = "[YES]";
+"noSel" = "[NO]";
+"results" = "RESULTS";
+"tryAgain" = "TRY AGAIN";
+"showMistakes" = "SHOW MISTAKES";
+"squareHelp" = "Border squares already have right positions.";
+
+//////////////////////////////////////// Social
+
+"postTextFb" = "Color vision of my eyes is";
+"postTextTw" = "My color vision is";
+"postEnd" = "Try to beat it!";
+"twitterURL" = "https://itunes.apple.com/en/app/check-your-colorvision/id564765084?mt=8";
+"@ApogeeStudio" = "@ApogeeStudioEn";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,166 @@
+//
+//  Created by Grigory Lutkov on 01.10.12.
+//  Copyright (c) 2012 Grigory Lutkov. All rights reserved.
+//
+
+"myName" = "Григорий Лутков";
+
+//////////////////////////////////////// Internet status
+
+"NotReachable" = "Без доступа к сети";
+"ReachableViaWWAN" = "Подключено через WWAN";
+"ReachableViaWiFi" = "Подключено через WiFi";
+
+//////////////////////////////////////// Menu buttons
+
+// Unselected
+
+"playButtonUnsel" = "ИГРАТЬ";
+"optionsButtonUnsel" = "НАСТРОЙКИ";
+"highscoresButtonUnsel" = "РЕКОРДЫ";
+"gamecenterButtonUnsel" = "GAME_CENTER";
+"aboutButtonUnsel" = "ОБ_ИГРЕ";
+"purchasesButtonUnsel" = "ПОКУПКИ";
+"newsButtonUnsel" = "НОВОСТИ";
+"moreGamesButtonUnsel" = "БОЛЬШЕ_ИГР";
+
+// Selected
+
+"playButtonSel" = "[ИГРАТЬ]";
+"optionsButtonSel" = "[НАСТРОЙКИ]";
+"highscoresButtonSel" = "[РЕКОРДЫ]";
+"gamecenterButtonSel" = "[GAME_CENTER]";
+"aboutButtonSel" = "[ОБ_ИГРЕ]";
+"purchasesButtonSel" = "[ПОКУПКИ]";
+"newsButtonSel" = "[НОВОСТИ]";
+"moreGamesButtonSel" = "[БОЛЬШЕ_ИГР]";
+
+//////////////////////////////////////// Help
+
+"aboutTitle" = "ОБ ИГРЕ";
+"aboutText" = "        Хорошо ли вы различаете цвета? Данная игра/тест поможет вам это узнать.\n        Правила простые: цветовой спектр разбит на квадраты, которые перемешаны между собой, вы должны выложить их таким образом, чтобы привести спектр в изначальное состояние. Квадраты, расположенные по краям, уже находятся на правильных позициях и их двигать нельзя. Кроме того квадраты передвигаются только по линиям, на которых они находятся. По завершении вы сможете посмотреть где допустили ошибки, а также будет высчитан результат, опирающийся на их количество, на количество ваших ходов и на время за которое вы закончили тест.\n        В Game Center'e вы сможете сравнить свой результат с результатами людей со всего мира. Удачи! :)";
+
+//////////////////////////////////////// Options
+
+"optionsTitle" = "НАСТРОЙКИ";
+"selectLanguage" = "Язык:";
+"selectSound" = "Звук:";
+"soundOn" = "Вкл";
+"soundOff" = "Вык";
+"followUs" = "Подписывайтесь:";
+
+//////////////////////////////////////// News
+
+"newsTitle" = "НОВОСТИ";
+"newsText" = "Теперь вы можете запостить набранные очки на Facebook, Twitter и ВКонтакте, кнопки находятся на экране общих результатов и результатов после игры.\nКроме того вы можете подписаться на нас, для этого проверьте экран настроек.\nУдачной игры :)";
+
+//////////////////////////////////////// Purchases
+
+"purchasesTitle" = "ПОКУПКИ";
+"removeAdsText" = "| Удалить рекламу (Ads) за $0.99 |";
+"removeAdsYes" = "(уже приобретено)";
+"restoreText" = "| Восстановить покупку |";
+"removeAdsNo" = "(нажмите на текст для покупки)";
+"donateTitle" = "ПОДДЕРЖАТЬ";
+"internetAvailabilityTitle" = "Статус интернет подключения:";
+
+//////////////////////////////////////// More Games
+
+"moreGamesTitle" = "БОЛЬШЕ ИГР";
+"priceFree" = "| Бесплатно";
+"download" = "| Скачать";
+"goToAppStore" = "| Перейти на страницу разработчика в AppStore |";
+
+//////////////////////////////////////// Highscores
+
+"highscoresTitle" = "РЕКОРДЫ";
+"mistakes" = "ОШИБКИ";
+"time" = "ВРЕМЯ";
+"squaresMoved" = "ПЕРЕДВИЖЕНИЯ";
+"score" = "ОЧКИ";
+"submitScore" = "| Синхронизовать лучший результат с GameCenter |";
+
+//////////////////////////////////////// GameCenter
+
+"leaderboards" = "Результаты";
+"achievements" = "Достижения";
+
+//////////////////////////////////////// Alert Messages
+
+"noInternetConnectionTitle" = "Ошибка";
+"noInternetConnectionMessage" = "Отсутствует подключение к интернету.";
+"close" = "Закрыть";
+"cancel" = "Отмена";
+"developer" = "Разработчик";
+"engine" = "Движок";
+"sounds" = "Звуки";
+"error" = "Ошибка";
+"GCErrorTitle" = "Game Center недоступен";
+"GCErrorMessage" = "Игрок не в системе";
+
+"RateTitle" = "Оценить игру?";
+"RateMessage" = "Каждая оценка привлечет больше соперников. Спасибо за вашу поддержку!";
+"RateOk" = "Оценить!";
+"RateLater" = "Позже";
+"RateNo" = "Нет, спасибо";
+
+"RatedTitle" = "Спасибо!";
+"RatedMessage" = "Мы этого не забудем :)";
+
+//////////////////////////////////////// LGGameCenter
+
+"MCGC_successTitle" = "Готово";
+"MCGC_highscoreText" = "Результат";
+"MCGC_successMessage" = "успешно синхронизован.";
+"MCGC_errorTitle" = "Ошибка";
+"MCGC_errorMessage" = "При синхронизации произошла ошибка.";
+
+//////////////////////////////////////// LGInAppPurchases
+
+"MCIAP_connectionError" = "Ошибка соединения";
+"MCIAP_tryAgainMessage" = "Пожалуйста, повторите попытку позже.";
+"MCIAP_purchasingDisabled" = "Покупки недоступны";
+"MCIAP_parentalControl" = "Измените настройки родительского контроля и попробуйте снова.";
+"MCIAP_progressAlertTitle" = "Подключение к серверу";
+"MCIAP_progressAlertMessage" = "Ожидание...";
+"MCIAP_purchaseSuccessfulTitle" = "Спасибо!";
+"MCIAP_purchaseRemoveAdsMessage" = "Вы успешно удалили рекламу. Перезапустите игру, чтобы изменения вступили в силу.";
+"MCIAP_purchaseDonate1Message" = "Вы успешно отправили $1. Мы вам очень признательны!";
+"MCIAP_purchaseDonate3Message" = "Вы успешно отправили $3. Мы вам очень признательны!";
+"MCIAP_purchaseDonate5Message" = "Вы успешно отправили $5. Мы вам очень признательны!";
+"MCIAP_purchaseDonate10Message" = "Вы успешно отправили $10. Мы вам очень признательны!";
+"MCIAP_purchaseDonate25Message" = "Вы успешно отправили $25. Мы вам очень признательны!";
+"MCIAP_purchasingError" = "Ошибка при покупке";
+
+//////////////////////////////////////// Test
+
+"back" = "НАЗАД";
+"next" = "ВПЕРЁД";
+"menu" = "МЕНЮ";
+"finish" = "ФИНИШ";
+"sure?" = "УВЕРЕНЫ?";
+"yesUnsel" = "ДА";
+"noUnsel" = "НЕТ";
+"yesSel" = "[ДА]";
+"noSel" = "[НЕТ]";
+"results" = "РЕЗУЛЬТАТЫ";
+"tryAgain" = "ЗАНОВО";
+"showMistakes" = "ПОКАЗАТЬ ОШИБКИ";
+"squareHelp" = "Крайние квадраты уже находятся на правильных местах.";
+
+//////////////////////////////////////// Social
+
+"postTextFb" = "Цветочувствительность моих глаз -";
+"postTextTw" = "Моя цветочувствительность -";
+"postEnd" = "Кто побьёт рекорд?!";
+"postURL" = "https://itunes.apple.com/ru/app/check-your-colorvision/id564765084?mt=8";
+"@ApogeeStudio" = "@ApogeeStudioRu";
+
+
+
+
+
+
+
+
+
